@@ -5,5 +5,5 @@ async function includeComponent(selector, file) {
   el.innerHTML = html;
 }
 
-includeComponent("#header", "/components/header.html");
-includeComponent("#footer", "/components/footer.html");
+includeComponent("#header", "https://luisgaabrielmarquizaramalho.github.io/JuBento-Demo/components/header.html");
+includeComponent("#footer", "https://luisgaabrielmarquizaramalho.github.io/JuBento-Demo/components/footer.html");
